@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Assignment Solution for Module 2</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<style type="text/css">
-    {
+{
     box-sizing: border-box;
     font-family: Helvetica;
 }
@@ -197,36 +187,3 @@ section>p {
         width: 100%;
     }
 }
-</style>
-
-<body>
-    <h1>MOBILE GAMES</h1>
-    <div class="row">
-        <div class="col-lg-4 col-md-6 col-sm-12">
-            <section class="lebesgue">
-                <h2>PUBG MOBILE</h2>
-                <p>
-                    PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole. The game is based on previous mods that were created by Brendan "PlayerUnknown" Greene for other games, inspired by the 2000 Japanese film Battle Royale, and expanded into a standalone game under Greene's creative direction. In the game, up to one hundred players parachute onto an island and scavenge for weapons and equipment to kill others while avoiding getting killed themselves. The available safe area of the game's map decreases in size over time, directing surviving players into tighter areas to force encounters. The last player or team standing wins the round.
-                </p>
-            </section>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-12">
-            <section class="fubini">
-                <h2>COD MOBILE</h2>
-                <p>
-                    Call of Duty: Mobile is a free-to-play shooter video game developed by TiMi Studios and published by Activision and Garena for Android and iOS. It was released on October 1, 2019. The game saw one of the largest mobile game launches in history, generating over US$327 million with 250 million downloads by June 2020
-                </p>
-            </section>
-        </div>
-        <div class="col-lg-4 col-md-12 col-sm-12">
-            <section class="luzin">
-                <h2>PES</h2>
-                <p>
-                    Pro Evolution Soccer, known in Japan as Winning Eleven, is a series of association football simulation video games developed and released annually since 1995. It is being developed and published by Konami.
-                </p>
-            </section>
-        </div>
-    </div>
-</body>
-
-</html>
